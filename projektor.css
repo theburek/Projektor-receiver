@@ -2,4 +2,7 @@
 .background { background: #0d0d0f url(background.jpg) center / cover no-repeat; }
 .logo { background-image: url(logo.png); }
 .splash { background-image: url(splash.jpg); }
+/* The player writes the app's name into these when it doesn't see a picture for them,
+   which it may not yet when it starts: the pictures have the name already. */
+.logo, .splash { font-size: 0; }
 .progressBar { background-color: #bac3ff; }
