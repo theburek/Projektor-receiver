@@ -1,0 +1,5 @@
+/* Projektor on the TV, for Google's Styled Media Receiver. Made by tool/make_icons.py. */
+.background { background: #0d0d0f url(background.jpg) center / cover no-repeat; }
+.logo { background-image: url(logo.png); }
+.splash { background-image: url(splash.jpg); }
+.progressBar { background-color: #bac3ff; }
